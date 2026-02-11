@@ -40,7 +40,7 @@
 
 | | | |
 |:---:|:---:|:---:|
-| <a href="https://github.com/Aashutoshpatel11/Vertex"><img src="assets/projects/card-vertex.svg" width="100%" alt="Vertex - AI Doc Assistant" /></a> | <a href="https://github.com/Aashutoshpatel11/Streamly"><img src="assets/projects/card-streamly.svg" width="100%" alt="Streamly - Video Platform" /></a> | <a href="https://github.com/Aashutoshpatel11/TaskFlow"><img src="assets/projects/card-taskflow.svg" width="100%" alt="TaskFlow - Project Manager" /></a> |
+| <a href="https://vertex-rho-two.vercel.app/"><img src="assets/projects/card-vertex.svg" width="100%" alt="Vertex - AI Doc Assistant" /></a> | <a href="https://streamly-video.onrender.com/"><img src="assets/projects/card-streamly.svg" width="100%" alt="Streamly - Video Platform" /></a> | <a href="https://collab-task-client.onrender.com/login"><img src="assets/projects/card-taskflow.svg" width="100%" alt="TaskFlow - Project Manager" /></a> |
 
 </div>
 
