@@ -46,31 +46,17 @@
 
 #### 🔧 Project Details
 
-* **[Vertex](https://github.com/Aashutoshpatel11/Vertex)**: A production-grade **RAG system** that lets users chat with PDF documents. [cite_start]Features **Google Gemini 2.5**, **Qdrant Vector DB**, and **LangChain** for context-aware responses[cite: 30, 31].
-* **[Streamly](https://github.com/Aashutoshpatel11/Streamly)**: A scalable video distribution platform modeled after YouTube. [cite_start]Handles high-concurrency streaming using **MERN Stack**, **Redux**, and **Cloudinary**[cite: 18, 23].
-* **[TaskFlow](https://github.com/Aashutoshpatel11/TaskFlow)**: A real-time collaborative task manager. [cite_start]Uses **Socket.io** for bidirectional communication and **Docker** for containerized microservices[cite: 35, 39, 40].
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="assets/stats-header.svg" width="100%" alt="Metrics Header" />
-  
-  <br />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Aashutoshpatel11&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=FFC229&text_color=D1D5DB" height="160" alt="Aashutosh's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashutoshpatel11&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=FFC229&text_color=D1D5DB" height="160" alt="Top Languages" />
-</div>
-
+* **[Vertex](https://github.com/Aashutoshpatel11/Vertex)**: A production-grade **RAG system** that lets users chat with PDF documents. Features **Google Gemini 2.5**, **Qdrant Vector DB**, and **LangChain** for context-aware responses.
+* **[Streamly](https://github.com/Aashutoshpatel11/Streamly)**: A scalable video distribution platform modeled after YouTube. Handles high-concurrency streaming using **MERN Stack**, **Redux**, and **Cloudinary**.
+* **[TaskFlow](https://github.com/Aashutoshpatel11/TaskFlow)**: A real-time collaborative task manager. Uses **Socket.io** for bidirectional communication and **Docker** for containerized microservices.
 ---
 
 ### 🏆 Achievements
 
-* [cite_start]**Problem Solving:** Solved **100+** coding problems across LeetCode, GeeksforGeeks, and ChaiCode[cite: 44].
+* **Problem Solving:** Solved **100+** coding problems across LeetCode, GeeksforGeeks, and ChaiCode.
 * **Certifications:**
-    * [cite_start]Technology Job Simulation - *Deloitte Australia* [cite: 45]
-    * [cite_start]Web Development Bootcamp - *Udemy* [cite: 45]
+    * Technology Job Simulation - *Deloitte Australia* 
+    * Web Development Bootcamp - *Udemy* 
 
 ---
 
