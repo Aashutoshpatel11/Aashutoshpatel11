@@ -24,7 +24,7 @@
   
   <text x="40" y="95" font-family="'Segoe UI', sans-serif" font-weight="400" fill="#94A3B8" font-size="14">Collaborative Task Manager.</text>
   <text x="40" y="118" font-family="'Segoe UI', sans-serif" font-weight="400" fill="#94A3B8" font-size="13">Real-time bidirectional sync dashboard</text>
-  <text x="40" y="136" font-family="'Segoe UI', sans-serif" font-weight="400" fill="#94A3B8" font-size="13">powered by Socket.io & Docker.</text>
+  <text x="40" y="136" font-family="'Segoe UI', sans-serif" font-weight="400" fill="#94A3B8" font-size="13">powered by Socket.io &amp; Docker.</text>
 
   <g transform="translate(40, 170)">
     <rect width="60" height="24" rx="12" fill="#334155"/>

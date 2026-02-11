@@ -24,7 +24,7 @@
     <text x="10" y="55" class="item">• Next.js / React</text>
     <text x="10" y="80" class="item">• TypeScript</text>
     <text x="10" y="105" class="item">• Tailwind CSS</text>
-    <text x="10" y="130" class="item">• Framer Motion</text>
+    <text x="10" y="130" class="item">• Redux</text>
   </g>
 
   <!-- COLUMN 2 -->
