@@ -1,0 +1,60 @@
+<svg width="900" height="200" viewBox="0 0 900 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#38B2AC" stroke-width="0.5" stroke-opacity="0.1"/>
+    </pattern>
+    <linearGradient id="headerGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38B2AC" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#38B2AC" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="200" rx="12" fill="#0F172A"/>
+  <rect width="900" height="200" rx="12" fill="url(#grid)"/>
+
+  <style>
+    .cat-header { font-family: 'Segoe UI', sans-serif; font-weight: 700; font-size: 12px; fill: #38B2AC; letter-spacing: 1px; }
+    .item { font-family: 'Segoe UI', sans-serif; font-size: 13px; fill: #CBD5E1; }
+  </style>
+
+  <!-- COLUMN 1 -->
+  <g transform="translate(20, 20)">
+    <rect width="180" height="24" rx="4" fill="url(#headerGrad)"/>
+    <text x="10" y="16" class="cat-header">FRONTEND</text>
+    <text x="10" y="55" class="item">• Next.js / React</text>
+    <text x="10" y="80" class="item">• TypeScript</text>
+    <text x="10" y="105" class="item">• Tailwind CSS</text>
+    <text x="10" y="130" class="item">• Framer Motion</text>
+  </g>
+
+  <!-- COLUMN 2 -->
+  <g transform="translate(260, 20)">
+    <rect width="180" height="24" rx="4" fill="url(#headerGrad)"/>
+    <text x="10" y="16" class="cat-header">BACKEND</text>
+    <text x="10" y="55" class="item">• Node.js / Express</text>
+    <text x="10" y="80" class="item">• Socket.io</text>
+    <text x="10" y="105" class="item">• MongoDB</text>
+    <text x="10" y="130" class="item">• PostgreSQL</text>
+  </g>
+
+  <!-- COLUMN 3 -->
+  <g transform="translate(500, 20)">
+    <rect width="180" height="24" rx="4" fill="url(#headerGrad)"/>
+    <text x="10" y="16" class="cat-header" fill="#FFC229">AI ENGINEERING</text>
+    <text x="10" y="55" class="item">• LangChain / RAG</text>
+    <text x="10" y="80" class="item">• Google Gemini</text>
+    <text x="10" y="105" class="item">• Qdrant Vector DB</text>
+    <text x="10" y="130" class="item">• Embeddings</text>
+  </g>
+
+  <!-- COLUMN 4 -->
+  <g transform="translate(740, 20)">
+    <rect width="180" height="24" rx="4" fill="url(#headerGrad)"/>
+    <text x="10" y="16" class="cat-header">DEVOPS</text>
+    <text x="10" y="55" class="item">• Docker</text>
+    <text x="10" y="80" class="item">• Nginx</text>
+    <text x="10" y="105" class="item">• Git / GitHub</text>
+    <text x="10" y="130" class="item">• Vercel / Render</text>
+  </g>
+
+</svg>
