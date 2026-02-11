@@ -1,0 +1,39 @@
+<svg width="450" height="220" viewBox="0 0 450 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardGradTask" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1E293B"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <filter id="shadowTask">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="449" height="219" rx="11.5" fill="url(#cardGradTask)" stroke="#334155"/>
+  
+  <path d="M0 12C0 5.37258 5.37258 0 12 0H438C444.627 0 450 5.37258 450 12V14H0V12Z" fill="#FFC229"/>
+
+  <g transform="translate(360, 24)">
+    <rect width="70" height="20" rx="4" fill="#FFC229" fill-opacity="0.2"/>
+    <text x="35" y="14" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="10" font-weight="bold" fill="#FFC229">DEPLOYED</text>
+  </g>
+
+  <circle cx="40" cy="55" r="16" fill="#FFC229" fill-opacity="0.2"/>
+  <text x="32" y="60" font-size="18">⚡</text>
+  <text x="70" y="62" font-size="22" font-family="'Segoe UI', sans-serif" font-weight="700" fill="#F1F5F9" filter="url(#shadowTask)">TaskFlow</text>
+  
+  <text x="40" y="95" font-family="'Segoe UI', sans-serif" font-weight="400" fill="#94A3B8" font-size="14">Collaborative Task Manager.</text>
+  <text x="40" y="118" font-family="'Segoe UI', sans-serif" font-weight="400" fill="#94A3B8" font-size="13">Real-time bidirectional sync dashboard</text>
+  <text x="40" y="136" font-family="'Segoe UI', sans-serif" font-weight="400" fill="#94A3B8" font-size="13">powered by Socket.io & Docker.</text>
+
+  <g transform="translate(40, 170)">
+    <rect width="60" height="24" rx="12" fill="#334155"/>
+    <text x="30" y="16" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-weight="600" fill="#38B2AC" font-size="11">React</text>
+    
+    <rect x="70" width="70" height="24" rx="12" fill="#334155"/>
+    <text x="105" y="16" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-weight="600" fill="#38B2AC" font-size="11">Socket.io</text>
+    
+    <rect x="150" width="60" height="24" rx="12" fill="#334155"/>
+    <text x="180" y="16" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-weight="600" fill="#38B2AC" font-size="11">Docker</text>
+  </g>
+</svg>
