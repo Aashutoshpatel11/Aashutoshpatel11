@@ -1,0 +1,56 @@
+<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#38B2AC" stroke-width="0.5" stroke-opacity="0.1"/>
+    </pattern>
+    <linearGradient id="headerGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38B2AC" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#38B2AC" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="200" rx="12" fill="#0F172A"/>
+  <rect width="800" height="200" rx="12" fill="url(#grid)"/>
+
+  <style>
+    .cat-header { font-family: 'Segoe UI', sans-serif; font-weight: 700; font-size: 12px; fill: #38B2AC; letter-spacing: 1px; }
+    .item { font-family: 'Segoe UI', sans-serif; font-size: 13px; fill: #CBD5E1; }
+    .col { transform: translateY(20px); }
+  </style>
+
+  <g class="col" transform="translate(20, 0)">
+    <rect x="0" y="0" width="160" height="24" rx="4" fill="url(#headerGrad)"/>
+    <text x="10" y="16" class="cat-header">FRONTEND</text>
+    <text x="10" y="50" class="item">• Next.js / React</text>
+    <text x="10" y="75" class="item">• TypeScript</text>
+    <text x="10" y="100" class="item">• Tailwind CSS</text>
+    <text x="10" y="125" class="item">• Framer Motion</text>
+  </g>
+
+  <g class="col" transform="translate(220, 0)">
+    <rect x="0" y="0" width="160" height="24" rx="4" fill="url(#headerGrad)"/>
+    <text x="10" y="16" class="cat-header">BACKEND</text>
+    <text x="10" y="50" class="item">• Node.js / Express</text>
+    <text x="10" y="75" class="item">• Socket.io</text>
+    <text x="10" y="100" class="item">• MongoDB</text>
+    <text x="10" y="125" class="item">• PostgreSQL</text>
+  </g>
+
+  <g class="col" transform="translate(420, 0)">
+    <rect x="0" y="0" width="160" height="24" rx="4" fill="url(#headerGrad)"/>
+    <text x="10" y="16" class="cat-header" fill="#FFC229">AI ENGINEERING</text>
+    <text x="10" y="50" class="item">• LangChain / RAG</text>
+    <text x="10" y="75" class="item">• Google Gemini</text>
+    <text x="10" y="100" class="item">• Qdrant Vector DB</text>
+    <text x="10" y="125" class="item">• Embeddings</text>
+  </g>
+
+  <g class="col" transform="translate(620, 0)">
+    <rect x="0" y="0" width="160" height="24" rx="4" fill="url(#headerGrad)"/>
+    <text x="10" y="16" class="cat-header">DEVOPS</text>
+    <text x="10" y="50" class="item">• Docker</text>
+    <text x="10" y="75" class="item">• Nginx</text>
+    <text x="10" y="100" class="item">• Git / GitHub</text>
+    <text x="10" y="125" class="item">• Vercel / Render</text>
+  </g>
+</svg>
