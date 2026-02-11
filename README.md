@@ -1,70 +1,82 @@
 <div align="center">
 
-  # Hi there, I'm Aashutosh Patel! 👋
-  
-  ### 🚀 Full Stack AI Engineer | Next.js & MERN Specialist | RAG Enthusiast
+  <img src="assets/hero.svg" alt="Aashutosh Patel - Full Stack AI Engineer" width="100%" />
 
-  <p>
-    I am a passionate software engineer bridging the gap between robust <b>Full Stack Web Development</b> and cutting-edge <b>Generative AI</b>. 
-    I specialize in building production-grade applications using <b>Next.js</b>, <b>TypeScript</b>, and <b>LangChain</b>.
+  <br />
+
+  <a href="#featured-projects">
+    <img src="assets/micro-rag.gif" height="60" alt="Thinking AI" />
+  </a>
+  
+  <p align="center">
+    <b>I build intelligent web systems that read, reason, and respond.</b><br />
+    Specializing in <b>Next.js</b>, <b>TypeScript</b>, and <b>Generative AI (RAG)</b> pipelines.
   </p>
 
   <p>
     <a href="mailto:aashupatel369727@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Me-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      <img src="assets/badges/badge-email.svg" height="36" alt="Email Me" />
     </a>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/aashutoshpatel11">
+      <img src="assets/badges/badge-linkedin.svg" height="36" alt="LinkedIn" />
     </a>
   </p>
+
 </div>
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🧠 Technical Arsenal
 
 <div align="center">
-
-| **Frontend** | **Backend** | **AI & Data** | **DevOps & Tools** |
-| :---: | :---: | :---: | :---: |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![NextJS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white) | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
-| ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![Qdrant](https://img.shields.io/badge/Qdrant-Vector%20DB-purple?style=flat-square) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-
+  <img src="assets/tech-grid.svg" width="100%" alt="Technical Skills Grid" />
 </div>
 
----
+<br />
 
 ### 💻 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🤖 Vertex** | **AI-Powered Document Assistant.** A production-grade RAG system enabling users to chat with PDF documents using context-aware responses. | `Next.js 15` `LangChain` `Gemini` `Qdrant` `NextAuth` |
-| **▶️ Streamly** | **Scalable Video Streaming Platform.** A YouTube-modeled platform handling high-concurrency media streaming and real-time social engagement. | `MERN Stack` `Redux` `Cloudinary` `MongoDB Aggregations` |
-| **⚡ TaskFlow** | **Real-Time Collaborative Manager.** A project dashboard with bidirectional communication for instant task updates without polling overhead. | `React` `Node.js` `Socket.io` `Docker` `Zod` |
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| <a href="https://github.com/Aashutoshpatel11/Vertex"><img src="assets/projects/card-vertex.svg" width="100%" alt="Vertex - AI Doc Assistant" /></a> | <a href="https://github.com/Aashutoshpatel11/Streamly"><img src="assets/projects/card-streamly.svg" width="100%" alt="Streamly - Video Platform" /></a> | <a href="https://github.com/Aashutoshpatel11/TaskFlow"><img src="assets/projects/card-taskflow.svg" width="100%" alt="TaskFlow - Project Manager" /></a> |
+
+</div>
+
+#### 🔧 Project Details
+
+* **[Vertex](https://github.com/Aashutoshpatel11/Vertex)**: A production-grade **RAG system** that lets users chat with PDF documents. [cite_start]Features **Google Gemini 2.5**, **Qdrant Vector DB**, and **LangChain** for context-aware responses[cite: 30, 31].
+* **[Streamly](https://github.com/Aashutoshpatel11/Streamly)**: A scalable video distribution platform modeled after YouTube. [cite_start]Handles high-concurrency streaming using **MERN Stack**, **Redux**, and **Cloudinary**[cite: 18, 23].
+* **[TaskFlow](https://github.com/Aashutoshpatel11/TaskFlow)**: A real-time collaborative task manager. [cite_start]Uses **Socket.io** for bidirectional communication and **Docker** for containerized microservices[cite: 35, 39, 40].
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Aashutoshpatel11&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?Aashutoshpatel11&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph" />
+  <img src="assets/stats-header.svg" width="100%" alt="Metrics Header" />
+  
+  <br />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Aashutoshpatel11&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=FFC229&text_color=D1D5DB" height="160" alt="Aashutosh's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashutoshpatel11&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=FFC229&text_color=D1D5DB" height="160" alt="Top Languages" />
 </div>
 
 ---
 
-### 🏆 Achievements & Certifications
+### 🏆 Achievements
 
-* **Problem Solving:** Solved **100+** coding problems across LeetCode, GeeksforGeeks, and ChaiCode.
+* [cite_start]**Problem Solving:** Solved **100+** coding problems across LeetCode, GeeksforGeeks, and ChaiCode[cite: 44].
 * **Certifications:**
-    * Technology Job Simulation - *Deloitte Australia*
-    * Web Development Bootcamp - *Udemy*
-    * Basics of Python - *Infosys Springboard*
+    * [cite_start]Technology Job Simulation - *Deloitte Australia* [cite: 45]
+    * [cite_start]Web Development Bootcamp - *Udemy* [cite: 45]
 
 ---
 
 <div align="center">
-  <p><i>Let's build something amazing together!</i></p>
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=100&section=footer" width="100%" />
+  </p>
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </div>
