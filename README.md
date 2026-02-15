@@ -17,7 +17,7 @@
     <a href="mailto:aashupatel369727@gmail.com">
       <img src="assets/badges/badge-email.svg" height="36" alt="Email Me" />
     </a>
-    <a href="https://www.linkedin.com/in/aashutoshpatel11">
+    <a href="https://www.linkedin.com/in/aashutosh-patel-dev">
       <img src="assets/badges/badge-linkedin.svg" height="36" alt="LinkedIn" />
     </a>
   </p>
