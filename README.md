@@ -1,24 +1,29 @@
 <div align="center">
 
-  <img src="assets/hero.svg" alt="Aashutosh Patel - Full Stack AI Engineer" width="100%" />
+  <!-- Animated Banner Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:3B82F6&height=200&section=header&text=Aashutosh%20Patel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
+
+  <!-- Animated Typing Tagline -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Nucleus+Software;Java+%2B+Spring+Boot+Backend+Developer;Next.js+%2B+MERN+Full+Stack+Engineer;Building+RAG+Pipelines+%26+Generative+AI" alt="Typing SVG" />
+  </a>
 
   <br />
 
-  <a href="#featured-projects">
-    <img src="assets/micro-rag.gif" height="60" alt="Thinking AI" />
-  </a>
-  
   <p align="center">
-    <b>I build intelligent web systems that read, reason, and respond.</b><br />
-    Specializing in <b>Next.js</b>, <b>TypeScript</b>, and <b>Generative AI (RAG)</b> pipelines.
+    📍 <b>Noida, India</b> • 📧 <a href="mailto:aashutoshpatel1110@gmail.com">aashutoshpatel1110@gmail.com</a>
   </p>
 
+  <!-- Social & Contact Badges -->
   <p>
-    <a href="mailto:aashupatel369727@gmail.com">
-      <img src="assets/badges/badge-email.svg" height="36" alt="Email Me" />
+    <a href="mailto:aashutoshpatel1110@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/in/aashutosh-patel-dev">
-      <img src="assets/badges/badge-linkedin.svg" height="36" alt="LinkedIn" />
+    <a href="https://github.com/Aashutoshpatel11">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://linkedin.com">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
 
@@ -26,43 +31,9 @@
 
 ---
 
-### 🧠 Technical Arsenal
+### ⚡ Quick Overview
 
-<div align="center">
-  <img src="assets/tech-grid.svg" width="100%" alt="Technical Skills Grid" />
-</div>
-
-<br />
-
-### 💻 Featured Projects
-
-<div align="center">
-
-| | | |
-|:---:|:---:|:---:|
-| <a href="https://vertex-rho-two.vercel.app/"><img src="assets/projects/card-vertex.svg" width="100%" alt="Vertex - AI Doc Assistant" /></a> | <a href="https://streamly-frontend-mu.vercel.app/"><img src="assets/projects/card-streamly.svg" width="100%" alt="Streamly - Video Platform" /></a> | <a href="https://collab-task-client.onrender.com/login"><img src="assets/projects/card-taskflow.svg" width="100%" alt="TaskFlow - Project Manager" /></a> |
-
-</div>
-
-#### 🔧 Project Details
-
-* **[Vertex](https://github.com/Aashutoshpatel11/Vertex)**: A production-grade **RAG system** that lets users chat with PDF documents. Features **Google Gemini 2.5**, **Qdrant Vector DB**, and **LangChain** for context-aware responses.
-* **[Streamly](https://github.com/Aashutoshpatel11/Streamly)**: A scalable video distribution platform modeled after YouTube. Handles high-concurrency streaming using **MERN Stack**, **Redux**, and **Cloudinary**.
-* **[TaskFlow](https://github.com/Aashutoshpatel11/TaskFlow)**: A real-time collaborative task manager. Uses **Socket.io** for bidirectional communication and **Docker** for containerized microservices.
----
-
-### 🏆 Achievements
-
-* **Problem Solving:** Solved **100+** coding problems across LeetCode, GeeksforGeeks, and ChaiCode.
-* **Certifications:**
-    * Technology Job Simulation - *Deloitte Australia* 
-    * Web Development Bootcamp - *Udemy* 
-
----
-
-<div align="center">
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=100&section=footer" width="100%" />
-  </p>
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</div>
+```tech
+⚡ Assistant Software Engineer at Nucleus Software
+🎯 Specialization: Financial backend services (Java/Spring Boot) & LLM/RAG pipelines
+🔥 Solved 200+ Optimization & Data Structure problems across LeetCode & GeeksforGeeks
